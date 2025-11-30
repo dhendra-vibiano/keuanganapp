@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/drawable/ic_add.xml" value="0.24259259259259258" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/activity_add_transaksi.xml" value="0.24583333333333332" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/activity_main.xml" value="0.38362760834670945" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/activity_penerimaan.xml" value="0.2441123188405797" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/activity_pengeluaran.xml" value="0.2441123188405797" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/activity_rekening_koran.xml" value="0.2441123188405797" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/item_koran.xml" value="0.2441123188405797" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/item_penerimaan.xml" value="0.2441123188405797" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/item_pengeluaran.xml" value="0.2441123188405797" />
+        <entry key="..\:/project_android/keuanganapp/app/src/main/res/layout/item_rekening_koran.xml" value="0.2441123188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

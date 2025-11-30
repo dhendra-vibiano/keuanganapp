@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvTitleAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tambah Transaksi"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="12dp"/>
+
+        <EditText
+            android:id="@+id/etTanggal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Pilih Tanggal"
+            android:focusable="false"
+            android:clickable="true"
+            android:inputType="none" />
+
+
+        <EditText
+            android:id="@+id/etNominal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:hint="Nominal"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/etMetode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Metode (cash, transfer ...)"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/etSumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Sumber / Tujuan"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/etDeskripsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Deskripsi"
+            android:layout_marginTop="8dp"/>
+
+        <Button
+            android:id="@+id/btnSimpan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Simpan"
+            android:layout_marginTop="16dp"/>
+    </LinearLayout>
+
+</ScrollView>
